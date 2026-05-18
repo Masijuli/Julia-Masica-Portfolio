@@ -18,7 +18,7 @@ A sustainability-themed Golf card game developed using Python and Pygame. The pr
 - AI Algorithms
 
 ### Repository Link
-[View Project](PASTE-LINK-HERE)
+[View Project](https://github.com/Masijuli/Sustainable-Golf-AI)
 
 ---
 
