@@ -46,7 +46,7 @@ A data science research project analyzing international education data using sta
 - Data Visualization
 
 ### Repository Link
-[View Project](PASTE-LINK-HERE)
+[View Project](https://github.com/Masijuli/DASC-360-PROJECT)
 
 ---
 
