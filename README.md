@@ -32,7 +32,7 @@ A food inventory and grocery tracking web application designed to help users mon
 - HTML/CSS/JavaScript
 
 ### Repository Link
-[View Project](PASTE-LINK-HERE)
+[View Project](https://github.com/Masijuli/Snack-Overflow-Database)
 
 ---
 
